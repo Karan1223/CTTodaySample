@@ -8,7 +8,16 @@
     background-color: white;
 }
 
+.heading-left {
+    float: left; /* Float the left div to the left */
+}
+
+.header > div {
+    float: right; /* Float the right div to the right */
+}
+
 .header{
+    overflow: hidden; 
     display: flex;
     justify-content: space-between;
     background-color: slateblue;
