@@ -1,0 +1,3 @@
+# CTTodaySample
+
+August Magazine Mailer
